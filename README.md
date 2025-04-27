@@ -60,3 +60,11 @@ I served as the **sole data analyst and engineer**, leading the **end-to-end dat
   - PC & Video Games
   - Small Kitchen Appliances
 - Found that the **average price of best-selling products** was **lower** than that of non-selling products — providing key pricing strategy insights.
+
+  ## Power BI
+
+![Power_BI_1](https://github.com/user-attachments/assets/69c286ee-421f-4760-a31b-9bb7db3fe77a)
+
+![Power_BI_2](https://github.com/user-attachments/assets/2773bedb-d3e5-4663-b0ef-dbda2957b0f2)
+
+
