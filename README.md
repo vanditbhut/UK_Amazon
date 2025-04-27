@@ -25,8 +25,6 @@ I served as the **sole data analyst and engineer**, leading the **end-to-end dat
 - Data analysis
 - Dashboard development
 
-This project demonstrates complete ownership, technical depth, and versatility.
-
 ---
 
 ## 🛠️ Key Technical Contributions  
